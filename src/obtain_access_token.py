@@ -2,6 +2,10 @@ import json
 import requests
 import secrets
 
+"""
+Code by: ZeroCrystal
+Link: https://gitlab.com/-/snippets/2039434
+"""
 
 CLIENT_ID = 'YOUR_CLIENT_ID'
 CLIENT_SECRET = 'YOUR_CLIENT_SECRET'
